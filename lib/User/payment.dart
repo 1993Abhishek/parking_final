@@ -54,7 +54,7 @@ class _PaymentPageState extends State<PaymentPage> {
               height: 8,
             ),
              Text(
-              '\$50.00',
+             '£50.00',
               style: TextStyle(
                   color: Colors.red,
                   fontSize: 30,
